@@ -1,0 +1,14 @@
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\MyMusic\MyMusic\bin\Debug\MyMusic.exe.config
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\MyMusic\MyMusic\bin\Debug\MyMusic.exe
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\MyMusic\MyMusic\bin\Debug\MyMusic.pdb
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\MyMusic\MyMusic\bin\Debug\Interop.WMPLib.dll
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\MyMusic\MyMusic\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\MyMusic\MyMusic\obj\Debug\Interop.WMPLib.dll
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\MyMusic\MyMusic\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\MyMusic\MyMusic\obj\Debug\MyMusic.csproj.ResolveComReference.cache
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\MyMusic\MyMusic\obj\Debug\MyMusic.Form1.resources
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\MyMusic\MyMusic\obj\Debug\MyMusic.Properties.Resources.resources
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\MyMusic\MyMusic\obj\Debug\MyMusic.csproj.GenerateResource.Cache
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\MyMusic\MyMusic\obj\Debug\MyMusic.exe
+C:\Users\Nuria\Documents\Visual Studio 2015\Projects\MyMusic\MyMusic\obj\Debug\MyMusic.pdb
+C:\Users\Nuria\documents\visual studio 2015\Projects\MyMusic\MyMusic\obj\Debug\MyMusic.csprojResolveAssemblyReference.cache
